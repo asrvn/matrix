@@ -1,2 +1,2 @@
 # matrix
-basic matrix formatting script for discord
+Basic augmented matrix formatting script for Discord
